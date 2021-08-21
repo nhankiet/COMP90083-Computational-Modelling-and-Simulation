@@ -2,13 +2,9 @@
 
 Assignment 2 of Computational Modelling and Simulation (COMP90083)
 
-<br/>
-
 ## Description
 
 This is a simulation project using NetLOGO to explore the angiogenesis of cancer cell, with the results analyzed using Python-pandas and R.
-
-<br/>
 
 ## Members
 
@@ -16,33 +12,20 @@ This is a simulation project using NetLOGO to explore the angiogenesis of cancer
 - Adam Thalhammer
 - Will Walters
 
-<br>
-
 ## Some sneekpeak pictures
+
 0. Angiogenesis
-<br>
-   ![0](charts/angiogenesis.png)
-<br>
+![0](charts/angiogenesis.png)
 1. The world/cell setup
-<br>
-   ![1](charts/vein-blood-cell-state.png)
-<br>
+![1](charts/vein-blood-cell-state.png)
 2. Number vasular patches angiogenesis
-<br>
-   ![2](charts/violin-charts.png)
-<br>
+![2](charts/violin-charts.png)
 3. Time series chart of cells infected, with different nutrition level
-<br>
-   ![3](charts/time-series-cells.png)
-<br>
 
-## Read full report 👉 [here](doc/Report_Group18.pdf)
+![3](charts/time-series-cells.png)
 
-<br>
+Read full report 👉 [here](doc/Report_Group18.pdf)
 
-## Install [NetLOGO](https://ccl.northwestern.edu/netlogo/) to run the experiment! ![4](charts/project-open-in-netlogo.png)
+Install [NetLOGO](https://ccl.northwestern.edu/netlogo/) to run the experiment! ![4](charts/project-open-in-netlogo.png)
 
-<br>
-<br>
-
-### It was a great pleasure working with my talented teammates Adam and Will!!! 🍻🥂📣🎉🎉🎉 
+It was a great pleasure working with my talented teammates Adam and Will!!! 🍻🥂📣🎉🎉🎉
