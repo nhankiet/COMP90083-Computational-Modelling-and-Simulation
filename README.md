@@ -20,17 +20,20 @@ This is a simulation project using NetLOGO to explore the angiogenesis of cancer
 
 ## Some sneekpeak pictures
 0. Angiogenesis
+<br>
    ![0](charts/angiogenesis.png)
 <br>
 1. The world/cell setup
+<br>
    ![1](charts/vein-blood-cell-state.png)
 <br>
 2. Number vasular patches angiogenesis
+<br>
    ![2](charts/violin-charts.png)
 <br>
-1. Time series chart of cells infected, with different nutrition level
+3. Time series chart of cells infected, with different nutrition level
+<br>
    ![3](charts/time-series-cells.png)
-
 <br>
 
 ## Read full report 👉 [here](doc/Report_Group18.pdf)
